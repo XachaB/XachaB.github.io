@@ -9,4 +9,4 @@
 
 ## Tools
 
-* Qumin: Quantitative Modelling of Inflection [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
+<img src="qumin.png" alt="Qumin" style="vertical-align: text-bottom;" width="60px">: Quantitative Modelling of Inflection [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
