@@ -3,9 +3,8 @@
 
 
 My research in computational linguistics focuses on the study of mophological structure.
-During my PHD, I investigated the complexity of inflexional systems and inflection classes (declensions or conjugations),
-as well as their typological variation.
-I am interested in computational analyses of morphological data which highlight the structure of morphological systems. I see computational tools as an opportunity to rigorously systematize and explicit linguistic work, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
+During my PHD, I studied inflection classes (declensions or conjugations) and their typological variation.
+I am interested in computational analyses of morphological systems which highlight their structural properties. I see computational tools as an opportunity to rigorously systematize and explicit linguistic work, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
 
 I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzziness.com/) where I work on document analysis and classification. I currently study the inferrence of structured text from PDF documents using deep learning.
 
