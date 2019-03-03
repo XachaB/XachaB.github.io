@@ -41,5 +41,5 @@ word.2016.0092  [[pdf]](https://www.euppublishing.com/doi/pdfplus/10.3366/word.2
 
 # Tools
 
-* <img src="qumin.png" alt="Qumin" style="vertical-align: text-bottom;" width="60px"> Quantitative Modelling of Inflection  explore the structure of inflection class systems. [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
+* <img src="qumin.png" alt="Qumin" style="vertical-align: text-bottom;" width="60px"> Quantitative Modelling of Inflection is a set of scripts written during my PHD to explore the structure of inflection class systems. [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
 * [IPA Keyboard](https://github.com/XachaB/IPAKeyboard) is a keyboard layout for Onboard Keyboard, allowing for easily typing International Phonetic Alphabet symbols in utf-8 on linux.
