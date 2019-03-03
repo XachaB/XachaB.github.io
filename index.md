@@ -3,8 +3,8 @@
 
 
 My research in computational linguistics focuses on the study of mophological structure.
-During my PHD, I studied inflection classes (declensions or conjugations) and their typological variation.
-I am interested in computational analyses of morphological systems which highlight their structural properties. I see computational tools as an opportunity to rigorously systematize and explicit linguistic work, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
+During my PhD, I studied inflection classes (declensions or conjugations) and their typological variation.
+I am interested in computational analyses of morphological systems which highlight their structural properties. I see computational tools as an opportunity to systematize linguistic analyses, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
 
 I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzziness.com/) where I work on document analysis and classification. I currently study the inferrence of structured text from PDF documents using deep learning.
 
@@ -32,5 +32,5 @@ Accepted:
 
 # Tools
 
-* <img src="qumin.png" alt="Qumin" style="vertical-align: text-bottom;" width="60px"> Quantitative Modelling of Inflection is a set of scripts written during my PHD to explore the structure of inflection class systems. [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
+* <img src="qumin.png" alt="Qumin" style="vertical-align: text-bottom;" width="60px"> Quantitative Modelling of Inflection is a set of scripts written during my PhD to explore the structure of inflection class systems. [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
 * [IPA Keyboard](https://github.com/XachaB/IPAKeyboard) is a keyboard layout for Onboard Keyboard, allowing for easily typing International Phonetic Alphabet symbols in utf-8 on linux.
