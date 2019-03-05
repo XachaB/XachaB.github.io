@@ -15,20 +15,7 @@ Accepted:
 
 2018:
 
-* Beniamine, Sacha. 2018. *“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”*, Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. [[pdf]](https://tel.archives-ouvertes.fr/tel-01840448/document) 
-<details>
-    <summary>[bib]</summary>
-~~~
-@phdthesis{Beniamine2018-PhD,
-  title = {Classifications flexionnelles. Étude quantitative des structures de paradigmes},
-  author = {Beniamine, Sacha},
-  url = {https://tel.archives-ouvertes.fr/tel-01840448},
-  school = {Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7)},
-  year = {2018},
-  month = Jul,
-}
-~~~
-</details>
+* Beniamine, Sacha. 2018. *“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”*, Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. [[pdf]](https://tel.archives-ouvertes.fr/tel-01840448/document) [[bib]](https://tel.archives-ouvertes.fr/tel-01840448v1/bibtex)
 
 2017:
 
