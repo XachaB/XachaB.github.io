@@ -12,6 +12,10 @@ summary{
     text-decoration:none;
 }
 
+details {
+    cursor: pointer;
+}
+
 details:hover summary, details:focus summary, details[open] summary {
     color:#069;
     font-weight:bold;
