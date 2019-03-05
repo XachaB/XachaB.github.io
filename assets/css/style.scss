@@ -1,5 +1,5 @@
- ---
- ---
+---
+---
 
 @import "{{ site.theme }}";
 
@@ -7,12 +7,12 @@ summary, details{
     display:inline;
 }
 
-a, summary{
+summary{
     color:#267CB9;
     text-decoration:none;
 }
 
-a:hover, a:focus, details:hover summary, details:focus summary, details[open] summary {
+details:hover summary, details:focus summary, details[open] summary {
     color:#069;
     font-weight:bold;
 }
