@@ -19,15 +19,14 @@ Accepted:
     <li>Beniamine, Sacha. 2018. <em>“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”</em>, Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. <a href="https://tel.archives-ouvertes.fr/tel-01840448/document">[pdf]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
-        <pre>@phdthesis{Beniamine2018-PhD,
-          title = {Classifications flexionnelles. 
+        <pre>@PhdThesis{Beniamine2018-PhD,
+          author = {Sacha Beniamine},
+          title  = {Classifications flexionnelles:
                     Étude quantitative des structures de paradigmes},
-          author = {Beniamine, Sacha},
-          url = {https://tel.archives-ouvertes.fr/tel-01840448},
-          school = {Université Sorbonne Paris Cité - 
-                    Université Paris Diderot (Paris 7)},
-          year = {2018},
-          month = Jul,
+          school = {Université Sorbonne Paris Cité - Université Paris Diderot},
+          year   = {2018},
+          url    = {https://tel.archives-ouvertes.fr/tel-01840448},
+          month  = Jul,
         }</pre>
     </details>
     </li>
@@ -37,53 +36,52 @@ Accepted:
 
 <ul>
   <li>Sacha Beniamine, Olivier Bonami, and Joyce McDonough (2017). “When segmentation helps. Implicative structure and morph boundaries in the Navajo verb”. In: <em>First International Symposium on Morphology (ISMo).</em> Lille, France, pp. 11–15. <a href="https://colloque-ismo.univ-lille3.fr/data/documents/abstracts_booklet.pdf#page=17">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
-    <pre>@inproceedings{BeniamineBonamiMcDonough2017,
-      title = {When segmentation helps. 
-                Implicative structure and 
+    <pre>@InProceedings{BeniamineBonamiMcDonough2017,
+    author    = {Beniamine, Sacha and Bonami, Olivier and McDonough, Joyce},
+    title     = {When segmentation helps.
+                Implicative structure and
                 morph boundaries in the Navajo verb},
-      author = {Beniamine, Sacha and Bonami, Olivier and Sagot, Benoît},
-      url = {https://hal.inria.fr/halshs-01955118},
-      booktitle = {First International Symposium on Morphology (ISMo)},
-      pages = {11--15},
-      year = {2017},
-      month = Feb,
-      address = {Lille, France},
-      pdf = {https://hal.inria.fr/hal-01718879/file/184-1460-1-PB.pdf},
+    booktitle = {First International Symposium on Morphology (ISMo)},
+    year      = {2017},
+    pages     = {11--15},
+    address   = {Lille, France},
+    month     = {December},
+    url       = {https://hal.inria.fr/halshs-01955118},
+    pdf       = {https://colloque-ismo.univ-lille3.fr/data/documents/abstracts_booklet.pdf#page=17},
     }</pre>
     </details>
     </li>
   <li>Sacha Beniamine (2017). “Un algorithme universel pour l’abstraction automatique d’alternances morphophonologiques”. In: <em>Actes de Traitement Automatique des Langues Naturelles (TALN)</em> 2017. Vol. 2. Orléans, France, pp. 77–85. <a href="https://hal.inria.fr/hal-01615899/document">[pdf]</a> <details markdown = "0">
         <summary markdown="0">[bib]</summary>
-        <pre>@inproceedings{Beniamine2017-patrons,
-          title = {Un algorithme universel pour 
-                    l’abstraction automatique d’alternances 
-                    morphophonologiques},
-          author = {Beniamine, Sacha},
-          url = {https://hal.inria.fr/hal-01615899},  
-          PDF = {https://hal.inria.fr/hal-01615899/file/tipapatternspaper.pdf},
-          booktitle = {24e Conférence sur le Traitement 
-                        Automatique des Langues Naturelles (TALN)},
-          address = {Orléans, France},
-          volume = {2},
-          year = {2017},
-          month = Jun,
+        <pre>@InProceedings{Beniamine2017,
+    author    = {Beniamine, Sacha},
+    title     = {Un algorithme universel pour l'abstraction automatique
+                d'alternances morphophonologiques},
+    booktitle = {24e Conférence sur le Traitement
+                Automatique des Langues Naturelles (TALN)},
+    year      = {2017},
+    volume    = {2},
+    pages     = {77--85},
+    address   = {Orléans, France},
+    url       = {https://hal.inria.fr/hal-01615899},  
+    PDF       = {https://hal.inria.fr/hal-01615899/file/tipapatternspaper.pdf},
         }</pre>
     </details>
   </li>
   <li>Sacha Beniamine, Olivier Bonami, and Benoı̂t Sagot (2017). “Inferring Inflection Classes with Description Length”. In: <em>Journal of Language Modelling</em> 5.3, pp. 465–525. DOI: 10.15398/jlm.v5i3.184 <a href="https://hal.inria.fr/hal-01718879/document">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
-        <pre>@article{BeniamineBonamiSagot2017,
-          title = {Inferring inflection classes with description length},
-          author = {Beniamine, Sacha and Bonami, Olivier and Sagot, Benoît},
-          url = {https://hal.inria.fr/hal-01718879},
-          journal = {Journal of Language Modelling},
-          publisher = {Institute of Computer Science, Polish Academy of Sciences, Poland},
-          volume = {5},
-          number = {3},
-          pages = {465--525},
-          year = {2017},
-          doi = {10.15398/jlm.v5i3.184},
-          month = Feb,
-          pdf = {https://hal.inria.fr/hal-01718879/file/184-1460-1-PB.pdf},
+        <pre>@Article{BeniamineBonamiSagot2017,
+    author   = {Beniamine, Sacha and Bonami, Olivier and Sagot, Beno{\^\i}t},
+    title    = {Inferring Inflection Classes with Description Length},
+    journal  = {Journal of Language Modelling},
+    publisher = {Institute of Computer Science, Polish Academy of Sciences, Poland},
+    year     = {2017},
+    volume   = {5},
+    number   = {3},
+    month = Feb,
+    pages    = {465--525},
+    doi      = {10.15398/jlm.v5i3.184},
+    pdf = {https://hal.inria.fr/hal-01718879/file/184-1460-1-PB.pdf},
+    url = {https://hal.inria.fr/hal-01718879},
         }</pre>
     </details>
     </li>
@@ -93,18 +91,20 @@ Accepted:
 
 <ul>
   <li>Olivier Bonami and S. Beniamine (2016). “Joint predictiveness in inflectional paradigms”. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
-        <pre>@article{BonamiBeniamine2016,
-    title = {Joint predictiveness in inflectional paradigms},
-    journal = {Word Structure},
-    volume = {9},
-    number = {2},
-    year = {2016},
-    pages = {156--182},
-    doi = {10.3366/word.2016.0092},
-    url = {http://dx.doi.org/10.3366/word.2016.0092},
-    author = {Olivier Bonami and S. Beniamine},
-    editor = {Farrell Ackerman and Malouf, Robert}
-}</pre>
+        <pre>@Article{BonamiBeniamine2016,
+    author   = {Bonami, Olivier and Beniamine, S.},
+    title    = {Joint predictiveness in inflectional paradigms},
+    journal  = {Word Structure},
+    year     = {2016},
+    volume   = {9},
+    number   = {2},
+    pages    = {156--182},
+    doi      = {10.3366/word.2016.0092},
+    url      = {http://dx.doi.org/10.3366/word.2016.0092},
+    keywords = {checked},
+    editor   = {Farrell Ackerman and Malouf, Robert}
+        }
+        </pre>
         <em> Please cite my first name as "S." in this paper.</em>
     </details></li>
 </ul>
@@ -113,15 +113,16 @@ Accepted:
 
 <ul>
   <li>Olivier Bonami and S. Beniamine (2015). “Implicative structure and joint predictiveness”. In: <em>Proceedings of the NetWordS Final Conference on Word Knowledge and Word Usage: Representations and Processes in the Mental Lexicon.</em> Ed. by Vito Pirelli, Claudia Marzi, and Marcello Ferro. Pisa, Italy. <a href="http://ceur-ws.org/Vol-1347/">[url]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
-        <pre>@inproceedings{BonamiBeniamine2016-networds,
-          title = {Implicative structure and joint predictiveness},
-          author = {Bonami, Olivier and Beniamine, S.},
-          url = {http://ceur-ws.org/Vol-1347/},
-          booktitle = {Proceedings of the NetWordS Final Conference
-                        on Word Knowledge and Word Usage: 
-                        Representations and Processes in the Mental Lexicon.},
-          year = {2015},
-          address = {Pisa, Italy},
+        <pre>@InProceedings{BonamiBeniamine2015,
+    author    = {Bonami, Olivier and S. Beniamine},
+    title     = {Implicative structure and joint predictiveness},
+    booktitle = {Proceedings of the NetWordS Final Conference
+                on Word Knowledge and Word Usage:
+                Representations and Processes in the Mental Lexicon},
+    year      = {2015},
+    editor    = {Vito Pirelli and Claudia Marzi and Marcello Ferro},
+    address   = {Pisa, Italy},
+    url       = {http://ceur-ws.org/Vol-1347/},
         }</pre>
         <em> Please cite my first name as "S." in this paper.</em>
     </details></li>
