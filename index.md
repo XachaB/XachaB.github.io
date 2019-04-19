@@ -1,5 +1,4 @@
 ---
-title: Sacha Beniamine
 ---
 
 My research in computational linguistics focuses on the study of mophological structure.
@@ -12,7 +11,22 @@ I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzzines
 
 Accepted:
 
-* Beniamine, Sacha. Forthcoming. “One lexeme, many classes: inflection class systems as lattices”, In: *One-to-Many Relations in Morphology, Syntax and Semantics*, Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press.
+<ul>
+    <li>Beniamine, Sacha. Forthcoming. “One lexeme, many classes: inflection class systems as lattices”, In: *One-to-Many Relations in Morphology, Syntax and Semantics*, Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
+    <details markdown = "0">
+        <summary markdown="0">[bib]</summary>
+        <pre>@InBook{Beniamine2019,
+          author    = {Sacha Beniamine},
+          title     = {One lexeme, many classes: inflection class systems as lattices},
+          booktitle = {One-to-Many Relations in Morphology, Syntax and Semantics},
+          year      = {Forthcoming},
+          editor    = {Berthold Crysmann and Manfred Sailer},
+          publisher = {Language Science Press.},
+          address   = {Berlin},
+        }</pre>
+    </details>
+    </li>
+</ul>
 
 2018:
 
@@ -24,8 +38,9 @@ Accepted:
           author = {Sacha Beniamine},
           title  = {Classifications flexionnelles:
                     Étude quantitative des structures de paradigmes},
-          school = {Université Sorbonne Paris Cité - Université Paris Diderot},
+          school = {Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7)},
           year   = {2018},
+          note   = {PhD thesis under the supervision of Olivier Bonami},
           url    = {https://tel.archives-ouvertes.fr/tel-01840448},
           month  = Jul,
         }</pre>
