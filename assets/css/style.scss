@@ -9,11 +9,19 @@ summary, details{
     display:inline;
 }
 
-summary{
+summary {
     color:#267CB9;
     text-decoration:none;
 }
 
+details[open] summary, details pre {
+position:relative;
+left:-40px;
+
+}
+details pre {
+    width:700px;
+}
 details {
     cursor: pointer;
 }
@@ -28,16 +36,25 @@ summary::-webkit-details-marker {
 }
 
 
-.wrapper { width: 930px; margin: 0 auto; }
-header { width: 300px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; }
-footer { width: 300px; float: left; position:relative; clear:both; -webkit-font-smoothing: subpixel-antialiased; }
-section { width: 600px; float: right; padding-bottom: 50px; }
+.wrapper { width: 1000px; margin: 0 auto; }
+header { width: 280px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; }
+footer { width: 280px; float: left; position:relative; clear:both; -webkit-font-smoothing: subpixel-antialiased; }
+section { width: 700px; float: left; padding-bottom: 50px; }
 header h1 {text-align: center; }
 
-section h1 {font-size:24px;}
+section h1 {font-size:24px; clear:both;}
 section h2 {font-size:18px; color:#555555;}
-header ul.links { list-style: none; height: 40px; padding: 0; background: transparent; border-radius: 0; border: 0; margin-top:50px; width:auto; }
-header li { width:auto; float: left; border:0; margin:0; padding:15px; }
+header ul {width:auto; margin:0 auto; text-align: center;}
+header ul.links {
+    list-style: none;
+    height: auto;
+    padding: 0;
+    background: transparent;
+    border-radius: 0;
+    border: 0;
+    margin-top:20px;
+    width:auto; }
+header li { width:auto; display:inline-block; border:0; margin:0; padding:15px; float:none; }
 header ul li a {width:auto;}
 header ul.links a img { height:40px; width:auto; }
 header ul.links a img:active, header ul.links a img:hover, { transform: scale(1.2); }
@@ -49,3 +66,10 @@ strong { color: #222; font-weight: 700; }
 header ul li + li + li { border-right: none; width:auto;}
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
+
+@media print, screen and (max-width: 1100px) {
+   div.wrapper { width: auto; margin: 0; }
+  header, section, footer { float: none; position: static; width: auto; margin:0; padding:0;}
+  header { padding-right: 0; }
+  header ul { position: relative; top:auto; left:auto;}
+header ul.links {margin-top:5px;}}

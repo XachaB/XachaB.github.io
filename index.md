@@ -1,9 +1,11 @@
 ---
 ---
 
+# About me
+
 My research in computational linguistics focuses on the study of mophological structure.
 During my PhD, I studied inflection classes (declensions or conjugations) and their typological variation.
-I am interested in computational analyses of morphological systems which highlight their structural properties. I see computational tools as an opportunity to systematize linguistic analyses, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
+I see computational tools as an opportunity to systematize linguistic analyses, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
 
 I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzziness.com/) where I work on document analysis and classification. I study the inference of structured text from PDF documents using deep learning.
 
@@ -106,7 +108,7 @@ I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzzines
 ## 2016
 
 <ul>
-  <li>Olivier Bonami and S. Beniamine (2016). “Joint predictiveness in inflectional paradigms”. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
+  <li>Olivier Bonami and S. Beniamine (2016). “Joint predictiveness in inflectional paradigms”. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
         <pre>@Article{BonamiBeniamine2016,
     author   = {Bonami, Olivier and Beniamine, S.},
     title    = {Joint predictiveness in inflectional paradigms},
@@ -121,14 +123,13 @@ I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzzines
     editor   = {Farrell Ackerman and Malouf, Robert}
         }
         </pre>
-        <em> Please cite my first name as "S." in this paper.</em>
     </details></li>
 </ul>
 
 ## 2015
 
 <ul>
-  <li>Olivier Bonami and S. Beniamine (2015). “Implicative structure and joint predictiveness”. In: <em>Proceedings of the NetWordS Final Conference on Word Knowledge and Word Usage: Representations and Processes in the Mental Lexicon.</em> Ed. by Vito Pirelli, Claudia Marzi, and Marcello Ferro. Pisa, Italy. <a href="http://ceur-ws.org/Vol-1347/">[url]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
+  <li>Olivier Bonami and S. Beniamine (2015). “Implicative structure and joint predictiveness”. In: <em>Proceedings of the NetWordS Final Conference on Word Knowledge and Word Usage: Representations and Processes in the Mental Lexicon.</em> Ed. by Vito Pirelli, Claudia Marzi, and Marcello Ferro. Pisa, Italy. <a href="http://ceur-ws.org/Vol-1347/">[url]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
         <pre>@InProceedings{BonamiBeniamine2015,
     author    = {Bonami, Olivier and S. Beniamine},
     title     = {Implicative structure and joint predictiveness},
@@ -140,7 +141,6 @@ I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzzines
     address   = {Pisa, Italy},
     url       = {http://ceur-ws.org/Vol-1347/},
         }</pre>
-        <em> Please cite my first name as "S." in this paper.</em>
     </details></li>
 </ul>
 
