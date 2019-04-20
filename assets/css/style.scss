@@ -44,16 +44,18 @@ header h1 {text-align: center; margin-top: 20px;}
 
 section h2 {font-size:24px; clear:both;}
 section h3 {font-size:18px; color:#555555;}
-header ul {width:auto; margin:0 auto; text-align: center;}
 header ul.links {
     list-style: none;
     height: auto;
     padding: 0;
+    margin:0;
+    text-align: center;
+    position:static;
     background: transparent;
     border-radius: 0;
     border: 0;
-    margin-top:20px;
-    width:auto; }
+    width:auto;
+right:0; left:0; }
 header li { width:auto; display:inline-block; border:0; margin:0; padding:10px; float:none; }
 header ul li a {width:auto;}
 header ul.links a img { height:35px; width:auto; }
@@ -71,5 +73,9 @@ header ul a strong { font-size: 14px; display: block; color: #222; }
    div.wrapper { width: auto; margin: 0; }
   header, section, footer { float: none; position: static; width: auto; margin:0; padding:0;}
   header { padding-right: 0; }
-  header ul { position: relative; top:auto; left:auto;}
-header ul.links {margin-top:5px;}}
+  section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 30px 0; }
+header ul, header ul.links {margin-top:5px; position: static; right:0; left:0;}}
+
+@media print, screen and (max-width: 960px) {
+    header {padding-right: 0;}
+ header ul, header ul.links  { position: static; right:0; left:0;} }
