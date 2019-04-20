@@ -37,13 +37,13 @@ summary::-webkit-details-marker {
 
 
 .wrapper { width: 1000px; margin: 0 auto; }
-header { width: 280px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; }
-footer { width: 280px; float: left; position:relative; clear:both; -webkit-font-smoothing: subpixel-antialiased; }
+header { width: 250px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; margin-right:50px;}
+footer { width: 250px; float: left; position:relative; clear:both; -webkit-font-smoothing: subpixel-antialiased; }
 section { width: 700px; float: left; padding-bottom: 50px; }
-header h1 {text-align: center; }
+header h1 {text-align: center; margin-top: 20px;}
 
-section h1 {font-size:24px; clear:both;}
-section h2 {font-size:18px; color:#555555;}
+section h2 {font-size:24px; clear:both;}
+section h3 {font-size:18px; color:#555555;}
 header ul {width:auto; margin:0 auto; text-align: center;}
 header ul.links {
     list-style: none;
@@ -54,9 +54,9 @@ header ul.links {
     border: 0;
     margin-top:20px;
     width:auto; }
-header li { width:auto; display:inline-block; border:0; margin:0; padding:15px; float:none; }
+header li { width:auto; display:inline-block; border:0; margin:0; padding:10px; float:none; }
 header ul li a {width:auto;}
-header ul.links a img { height:40px; width:auto; }
+header ul.links a img { height:35px; width:auto; }
 header ul.links a img:active, header ul.links a img:hover, { transform: scale(1.2); }
 
 header ul a:active { background-color: transparent; }
