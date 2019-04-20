@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+body { background-color: #fff; padding: 50px; font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 400; }
+
 summary, details{
     display:inline;
 }
@@ -24,3 +26,26 @@ details:hover summary, details:focus summary, details[open] summary {
 summary::-webkit-details-marker {
   display: none
 }
+
+
+.wrapper { width: 930px; margin: 0 auto; }
+header { width: 300px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; }
+footer { width: 300px; float: left; position:relative; clear:both; -webkit-font-smoothing: subpixel-antialiased; }
+section { width: 600px; float: right; padding-bottom: 50px; }
+header h1 {text-align: center; }
+
+section h1 {font-size:24px;}
+section h2 {font-size:18px; color:#555555;}
+header ul.links { list-style: none; height: 40px; padding: 0; background: transparent; border-radius: 0; border: 0; margin-top:50px; width:auto; }
+header li { width:auto; float: left; border:0; margin:0; padding:15px; }
+header ul li a {width:auto;}
+header ul.links a img { height:40px; width:auto; }
+header ul.links a img:active, header ul.links a img:hover, { transform: scale(1.2); }
+
+header ul a:active { background-color: transparent; }
+
+strong { color: #222; font-weight: 700; }
+
+header ul li + li + li { border-right: none; width:auto;}
+
+header ul a strong { font-size: 14px; display: block; color: #222; }

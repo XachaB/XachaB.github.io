@@ -9,10 +9,10 @@ I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzzines
 
 # Publications
 
-Accepted:
+## Accepted
 
 <ul>
-    <li>Beniamine, Sacha. Forthcoming. “One lexeme, many classes: inflection class systems as lattices”, In: *One-to-Many Relations in Morphology, Syntax and Semantics*, Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
+    <li>Beniamine, Sacha. (Forthcoming) “One lexeme, many classes: inflection class systems as lattices”, In: *One-to-Many Relations in Morphology, Syntax and Semantics*, Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
         <pre>@InBook{Beniamine2019,
@@ -28,10 +28,10 @@ Accepted:
     </li>
 </ul>
 
-2018:
+## 2018
 
 <ul>
-    <li>Beniamine, Sacha. 2018. <em>“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”</em>, Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. <a href="https://tel.archives-ouvertes.fr/tel-01840448/document">[pdf]</a>
+    <li>Beniamine, Sacha. (2018) <em>“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”</em>, Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. <a href="https://tel.archives-ouvertes.fr/tel-01840448/document">[pdf]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
         <pre>@PhdThesis{Beniamine2018-PhD,
@@ -48,7 +48,7 @@ Accepted:
     </li>
 </ul>
 
-2017:
+## 2017
 
 <ul>
   <li>Sacha Beniamine, Olivier Bonami, and Joyce McDonough (2017). “When segmentation helps. Implicative structure and morph boundaries in the Navajo verb”. In: <em>First International Symposium on Morphology (ISMo).</em> Lille, France, pp. 11–15. <a href="https://colloque-ismo.univ-lille3.fr/data/documents/abstracts_booklet.pdf#page=17">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
@@ -103,7 +103,7 @@ Accepted:
     </li>
 </ul>
 
-2016:
+## 2016
 
 <ul>
   <li>Olivier Bonami and S. Beniamine (2016). “Joint predictiveness in inflectional paradigms”. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
@@ -125,7 +125,7 @@ Accepted:
     </details></li>
 </ul>
 
-2015:
+## 2015
 
 <ul>
   <li>Olivier Bonami and S. Beniamine (2015). “Implicative structure and joint predictiveness”. In: <em>Proceedings of the NetWordS Final Conference on Word Knowledge and Word Usage: Representations and Processes in the Mental Lexicon.</em> Ed. by Vito Pirelli, Claudia Marzi, and Marcello Ferro. Pisa, Italy. <a href="http://ceur-ws.org/Vol-1347/">[url]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
