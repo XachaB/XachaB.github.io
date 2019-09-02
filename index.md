@@ -1,11 +1,12 @@
 ---
 ---
 
-My research in computational linguistics focuses on the study of mophological structure.
-During my PhD, I studied inflection classes (declensions or conjugations) and their typological variation.
+My research in computational linguistics focuses on the typology of morphological structure.
+
+During my PhD, I studied inflection classes (declensions or conjugations) and their typological variation. I am currently a post-doctoral researcher at the Max Planck Institute for the Science of Human History, in the department of Linguistic and Cultural Evolution in Jena, working on morphophonological evolution with [Erich Round](https://www.shh.mpg.de/person/98374/25522).
+
 I see computational tools as an opportunity to systematize linguistic analyses, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
 
-I am currently employed as a R&D scientist at [Bee Buzziness](http://beebuzziness.com/) where I work on document analysis and classification. I study the inference of structured text from PDF documents using deep learning.
 
 ## Publications
 
