@@ -95,5 +95,6 @@ header ul a strong { font-size: 14px; display: block; color: #222; }
 header ul, header ul.links {margin-top:5px; position: static; right:0; left:0;}}
 
 @media print, screen and (max-width: 960px) {
+    body {padding: 1rem; }
     header {padding-right: 0;}
  header ul, header ul.links  { position: static; right:0; left:0;} }
