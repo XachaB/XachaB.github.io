@@ -3,41 +3,57 @@
 
 @import "{{ site.theme }}";
 
-body { background-color: #fff; padding: 50px; font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 400; }
+body { background-color: #fff; padding: 50px; font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #626262; font-weight: 400; }
 
-summary, details{
+.publications summary, details{
     display:inline;
 }
 
-summary {
+.publications summary {
     color:#267CB9;
     text-decoration:none;
+    font-size: 16px;
 }
 
-details[open] summary, details pre {
+.publications details[open] summary, details pre {
 position:relative;
-left:-40px;
+left:-1rem;
 
 }
-details pre {
-    width:700px;
+.publications details pre {
+    width:650px;
 }
-details {
+.publications details {
     cursor: pointer;
+    font-size: 12px;
 }
 
-details:hover summary, details:focus summary, details[open] summary {
+.publications details:hover summary, details:focus summary, details[open] summary {
     color:#069;
     font-weight:bold;
 }
 
-summary::-webkit-details-marker {
+.publications summary::-webkit-details-marker {
   display: none
 }
 
 
+.publications blockquote {
+    margin: 1rem 0 1.5rem 0;
+    padding: 0 0 0 1.5rem;
+    border-left: 1px solid #cacaca;
+    font-style: normal;
+    text-align: justify;
+    color: #8a8a8a;
+}
+
+ul.publications  {
+    list-style-image: url('./../images/file-text.svg');
+}
+
 .wrapper { width: 1000px; margin: 0 auto; }
-header { width: 250px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; margin-right:50px;}
+header { width: 250px; float: left; position: relative; -webkit-font-smoothing: subpixel-antialiased; margin-right:50px;
+font-size: 14px;}
 footer { width: 250px; float: left; position:relative; clear:both; -webkit-font-smoothing: subpixel-antialiased; }
 section { width: 700px; float: left; padding-bottom: 50px; }
 header h1 {text-align: center; margin-top: 20px;}
@@ -68,6 +84,8 @@ strong { color: #222; font-weight: 700; }
 header ul li + li + li { border-right: none; width:auto;}
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
+
+
 
 @media print, screen and (max-width: 1100px) {
    div.wrapper { width: auto; margin: 0; }

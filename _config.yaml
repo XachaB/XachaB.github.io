@@ -3,10 +3,10 @@ theme: jekyll-theme-minimal
 title: Sacha Beniamine
 
 logo: img/self.jpg
-
+markdown: kramdown
 contact: sbeniamine [at] linguist [dot] univ-paris-diderot [dot] fr
 sidetext: |
-    <p><em>Post-doc at the Max Planck Institute.</em></p>
+    <p><em>Postdoctoral researcher at the Max Planck Institute.</em></p>
     <p><em>Member of the Laboratoire de Linguistique Formelle (LLF), university Paris Diderot.</em></p>
 
 extralinks: |

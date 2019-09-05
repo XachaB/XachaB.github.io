@@ -5,15 +5,13 @@ My research in computational linguistics focuses on the typology of morphologica
 
 During my PhD, I studied inflection classes (declensions or conjugations) and their typological variation. I am currently a post-doctoral researcher at the Max Planck Institute for the Science of Human History, in the department of Linguistic and Cultural Evolution in Jena, working on morphophonological evolution with [Erich Round](https://www.shh.mpg.de/person/98374/25522).
 
-I see computational tools as an opportunity to systematize linguistic analyses, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation.
+I see computational tools as an opportunity to systematize linguistic analyses, a solution to study precisely large amounts of data, and a necessary methodological step towards typological investigation. 
 
 
 ## Publications
 
-### Accepted
-
-<ul>
-    <li>Beniamine, Sacha. (Forthcoming) “One lexeme, many classes: inflection class systems as lattices”, In: *One-to-Many Relations in Morphology, Syntax and Semantics*, Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
+<ul class="publications">
+    <li>Beniamine, Sacha. (in press) <b>“One lexeme, many classes: inflection class systems as lattices”</b> , In: <i>One-to-Many Relations in Morphology, Syntax and Semantics</i> , Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
         <pre>@InBook{Beniamine2019,
@@ -26,13 +24,16 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
           address   = {Berlin},
         }</pre>
     </details>
+    <blockquote>
+        Descriptions of inflection classes usually take the form of broad of fine-grained (Stump & Finkel 2013) partitions of the set of lexeme, or link both in a hierarchic system of classes
+(Corbett & Fraser 1993; Dressler & Thornton 1996). Recent efforts to infer those automatically (Brown & Hippisley 2012; Lee
+& Goldsmith 2013; Bonami 2014) all rely on the assumption that the hierarchy takes the shape of
+a tree. We argue instead that  semi-lattices, in which multiple inheritance is possible, are more appropriate to the modelling of inflection class systems. They capture directly the phenomenon of heteroclisis (Stump
+2006), where different aspects of a lexeme's paradigm relate it to different classes. 
+We infer the semi-lattice using Formal Concept Analysis (Wille 1984) and describe a few measures of the canonicity of inflectional systems.
+    </blockquote>
     </li>
-</ul>
-
-### 2018
-
-<ul>
-    <li>Beniamine, Sacha. (2018) <em>“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”</em>, Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. <a href="https://tel.archives-ouvertes.fr/tel-01840448/document">[pdf]</a>
+    <li>Beniamine, Sacha. (2018) <b>“Classifications flexionnelles. Étude quantitative des structures de paradigmes.”</b> , Université Sorbonne Paris Cité - Université Paris Diderot (Paris 7), PhD thesis under the supervision of Olivier Bonami. <a href="https://tel.archives-ouvertes.fr/tel-01840448/document">[pdf]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
         <pre>@PhdThesis{Beniamine2018-PhD,
@@ -46,13 +47,9 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
           month  = Jul,
         }</pre>
     </details>
+    <blockquote>This dissertation adopts the Word and Paradigm approach and elaborates computationaltools to investigate precisely the similarity structure of inflection class systems based on in-flectional lexicon. We study Arabic, Yaitepec Chatino, Zenzontepec Chatino, English, French,Navajo and European Portuguese verbs as well as Russian nouns.</blockquote>
     </li>
-</ul>
-
-### 2017
-
-<ul>
-  <li>Sacha Beniamine, Olivier Bonami, and Joyce McDonough (2017). “When segmentation helps. Implicative structure and morph boundaries in the Navajo verb”. In: <em>First International Symposium on Morphology (ISMo).</em> Lille, France, pp. 11–15. <a href="https://colloque-ismo.univ-lille3.fr/data/documents/abstracts_booklet.pdf#page=17">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
+  <li>Sacha Beniamine, Olivier Bonami, and Joyce McDonough (2017). <b>“When segmentation helps. Implicative structure and morph boundaries in the Navajo verb”</b> . In: <em>First International Symposium on Morphology (ISMo).</em> Lille, France, pp. 11–15. <a href="https://colloque-ismo.univ-lille3.fr/data/documents/abstracts_booklet.pdf#page=17">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
     <pre>@InProceedings{BeniamineBonamiMcDonough2017,
     author    = {Beniamine, Sacha and Bonami, Olivier and McDonough, Joyce},
     title     = {When segmentation helps.
@@ -64,11 +61,13 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
     address   = {Lille, France},
     month     = {December},
     url       = {https://hal.inria.fr/halshs-01955118},
-    pdf       = {https://colloque-ismo.univ-lille3.fr/data/documents/abstracts_booklet.pdf#page=17},
     }</pre>
     </details>
+    <blockquote>
+     Recent work in Word and Paradigm morphology argues that the implicative structure of paradigms is expressed in terms of relations between surface words, and that studying the structure of paradigms in terms of sub-word units is misleading if not outright impossible (Ackerman et al, 2009; Blevins, 2006, 2016; Bonami & Beniamine, 2016). The argument typically rests on the observation that a word can only be segmented in the context of its paradigmatic alternatives, and that different aspects of the paradigm lead to different segmentations for the same word.This line of argumentation amounts to a claim about the empirical properties of some inflection systems. It is thus entirely possible that systems differ in this respect. In this presentation we show that there are systems where a uniform segmentation is possible and helpful to addressing implicative structure. Interestingly though, the segments that are identified lack the properties of classical morphemes.
+    </blockquote>
     </li>
-  <li>Sacha Beniamine (2017). “Un algorithme universel pour l’abstraction automatique d’alternances morphophonologiques”. In: <em>Actes de Traitement Automatique des Langues Naturelles (TALN)</em> 2017. Vol. 2. Orléans, France, pp. 77–85. <a href="https://hal.inria.fr/hal-01615899/document">[pdf]</a> <details markdown = "0">
+  <li>Sacha Beniamine (2017). <b>“Un algorithme universel pour l'abstraction automatique d'alternances morphophonologiques”</b> . In: <em>Actes de Traitement Automatique des Langues Naturelles (TALN)</em> 2017. Vol. 2. Orléans, France, pp. 77–85. <a href="https://hal.inria.fr/hal-01615899/document">[pdf]</a> <details markdown = "0">
         <summary markdown="0">[bib]</summary>
         <pre>@InProceedings{Beniamine2017,
     author    = {Beniamine, Sacha},
@@ -84,8 +83,11 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
     PDF       = {https://hal.inria.fr/hal-01615899/file/tipapatternspaper.pdf},
         }</pre>
     </details>
+    <blockquote>
+        We present an implemented algorithm for the inference of morphophonological alternation patterns between word-forms. It is universal in that it leads to comparable classifications across languages without expectations on the shape of the alternations it searches for. Alternation patterns are anecessary first step for the quantitative study of morphology in the Word and Paradigm framework.
+    </blockquote>
   </li>
-  <li>Sacha Beniamine, Olivier Bonami, and Benoı̂t Sagot (2017). “Inferring Inflection Classes with Description Length”. In: <em>Journal of Language Modelling</em> 5.3, pp. 465–525. DOI: 10.15398/jlm.v5i3.184 <a href="https://hal.inria.fr/hal-01718879/document">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
+  <li>Sacha Beniamine, Olivier Bonami, and Benoı̂t Sagot (2017). <b>“Inferring Inflection Classes with Description Length”</b> . In: <em>Journal of Language Modelling</em> 5.3, pp. 465–525. DOI: 10.15398/jlm.v5i3.184 <a href="https://hal.inria.fr/hal-01718879/document">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
         <pre>@Article{BeniamineBonamiSagot2017,
     author   = {Beniamine, Sacha and Bonami, Olivier and Sagot, Beno{\^\i}t},
     title    = {Inferring Inflection Classes with Description Length},
@@ -101,13 +103,12 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
     url = {https://hal.inria.fr/hal-01718879},
         }</pre>
     </details>
+    <blockquote>
+        We discuss the notion of an inflection class system, a traditional ingredient of the description of inflection systems of nontrivial complexity. We distinguish systems of microclasses, which partition a set of lexemes in classes with identical behavior, and systems of macroclasses,which group lexemes that are similar enough in a few larger classes. On the basis of the intuition that macroclasses should contribute to a concise description of the system, we propose one algorithmic method for inferring macroclasses from raw inflectional paradigms, based on minimisation of the description length of the system under a givenstrategy of identifying morphological alternations in paradigms. We then exhibit classifications produced by our implementation on French and European Portuguese conjugation data and argue that they constitute an appropriate systematisation of traditional classifications. To arrive at such a convincing systematisation, it was crucial for us to use a local approach to inflection class similarity (based on pairwise comparisons of paradigm cells) rather than a global approach (based on the simultaneous comparison of all cells). We conclude that it is indeed possible to infer inflectional macroclasses objectively.
+    </blockquote>
     </li>
-</ul>
 
-### 2016
-
-<ul>
-  <li>Olivier Bonami and S. Beniamine (2016). “Joint predictiveness in inflectional paradigms”. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
+  <li>Olivier Bonami and S. Beniamine (2016). <b>“Joint predictiveness in inflectional paradigms”</b>. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
         <pre>@Article{BonamiBeniamine2016,
     author   = {Bonami, Olivier and Beniamine, S.},
     title    = {Joint predictiveness in inflectional paradigms},
@@ -122,13 +123,10 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
     editor   = {Farrell Ackerman and Malouf, Robert}
         }
         </pre>
-    </details></li>
-</ul>
+    </details>
+<blockquote>This paper contributes to addressing the Paradigm Cell Filling Problem (PCFP) in inflectional paradigms, as defined by Ackerman et al. (2009). We define a method for extending the use of conditional entropy to address the PCFP to prediction based on multiple paradigm cells. We apply this method to French and European Portugese and show that, on average, knowledge of multiple paradigm cells is dramatically more predictive than knowledge of a single cell. Moreover, this new entropy measure proves useful in studying principal parts systems, which correspond to sets of predictors yielding a null entropy. Using a graded measure allows us to highlight the relevance of non-categorical or “good enough” principal parts systems.</blockquote></li>
 
-### 2015
-
-<ul>
-  <li>Olivier Bonami and S. Beniamine (2015). “Implicative structure and joint predictiveness”. In: <em>Proceedings of the NetWordS Final Conference on Word Knowledge and Word Usage: Representations and Processes in the Mental Lexicon.</em> Ed. by Vito Pirelli, Claudia Marzi, and Marcello Ferro. Pisa, Italy. <a href="http://ceur-ws.org/Vol-1347/">[url]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
+  <li>Olivier Bonami and S. Beniamine (2015). <b>“Implicative structure and joint predictiveness”</b>. In: <em>Proceedings of the NetWordS Final Conference on Word Knowledge and Word Usage: Representations and Processes in the Mental Lexicon.</em> Ed. by Vito Pirelli, Claudia Marzi, and Marcello Ferro. Pisa, Italy. <a href="http://ceur-ws.org/Vol-1347/">[url]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
         <pre>@InProceedings{BonamiBeniamine2015,
     author    = {Bonami, Olivier and S. Beniamine},
     title     = {Implicative structure and joint predictiveness},
