@@ -108,7 +108,7 @@ We infer the semi-lattice using Formal Concept Analysis (Wille 1984) and describ
     </blockquote>
     </li>
 
-  <li>Olivier Bonami and S. Beniamine (2016). <b>“Joint predictiveness in inflectional paradigms”</b>. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
+  <li>Olivier Bonami and S. Beniamine (2016). <b>“Joint predictiveness in inflectional paradigms”</b>. In: <em>Word Structure</em> 9.2, pp. 156–182. DOI: 10.3366/word.2016.0092  <a href="https://www.euppublishing.com/doi/pdfplus/10.3366/word.2016.0092">[on journal homepage]</a> <a href="http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/biblio/ws-jointprediction.pdf">[pdf]</a> <details markdown = "0"><summary markdown="0">[bib]</summary><em> Please cite my first name as "S." in this paper.</em>
         <pre>@Article{BonamiBeniamine2016,
     author   = {Bonami, Olivier and Beniamine, S.},
     title    = {Joint predictiveness in inflectional paradigms},
