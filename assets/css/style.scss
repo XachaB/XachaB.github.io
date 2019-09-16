@@ -8,34 +8,55 @@ body { background-color: #fff;
     color: #626262;
     font-weight: 400;
 }
-.publications summary, details{
+
+
+.datasets summary, 
+.publications summary, 
+details{
     display:inline;
 }
+
+
+.datasets summary,
 .publications summary {
     color:#267CB9;
     text-decoration:none;
     font-size: 16px;
 }
-.publications details[open] summary, details pre {
+
+.datasets details[open] summary, 
+.publications details[open] summary, 
+details pre {
     position:relative;
     left:-1rem;
 
 }
+
+.datasets details pre
 .publications details pre {
     width:650px;
 }
+
+.datasets details,
 .publications details {
     cursor: pointer;
     font-size: 12px;
 }
-.publications details:hover summary, details:focus summary, details[open] summary {
+
+.datasets details:hover summary, 
+.publications details:hover summary, 
+details:focus summary, 
+details[open] summary {
     color:#069;
     font-weight:bold;
 }
+
+.datasets summary::-webkit-details-marker,
 .publications summary::-webkit-details-marker {
     display: none
 }
 
+.datasets blockquote, 
 .publications blockquote {
     margin: 1rem 0 1.5rem 0;
     padding: 0 0 0 1.5rem;
