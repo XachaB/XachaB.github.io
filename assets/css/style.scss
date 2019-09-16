@@ -44,6 +44,11 @@ body { background-color: #fff;
     text-align: justify;
     color: #8a8a8a;
 }
+
+
+ul.datasets  {
+    list-style-image: url('./../images/file-table.svg');
+}
 ul.publications  {
     list-style-image: url('./../images/file-text.svg');
 }
