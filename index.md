@@ -144,7 +144,7 @@ We infer the semi-lattice using Formal Concept Analysis (Wille 1984) and describ
 ## Datasets
 
 <ul class="datasets">
-<li>Sacha Beniamine and Dunstan Brown. (2019). Inflected lexicon of Russian Nouns in IPA notation  [Data set]. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3428591.svg)](https://doi.org/10.5281/zenodo.3428591) <a href="https://pure.york.ac.uk/portal/en/datasets/russian-nouns-ipa-notation-with-stress(04f2d69c-72ac-4c46-aa71-80c50d245c1e).html">[York Research Database]</a><a href="https://gitlab.com/sbeniamine/russiannounlexicon">[gitlab]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
+<li>Sacha Beniamine and Dunstan Brown. (2019). Inflected lexicon of Russian Nouns in IPA notation  [Data set]. <a href="https://doi.org/10.5281/zenodo.3428591"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3428591.svg" alt="DOI"></a> <a href="https://pure.york.ac.uk/portal/en/datasets/russian-nouns-ipa-notation-with-stress(04f2d69c-72ac-4c46-aa71-80c50d245c1e).html">[York Research Database]</a><a href="https://gitlab.com/sbeniamine/russiannounlexicon">[gitlab]</a> <details markdown = "0"><summary markdown="0">[bib]</summary>
         <pre>@Misc{BeniamineBrown2019,
   author       = {Sacha Beniamine and Dunstan Brown},
   title        = {Inflected lexicon of Russian Nouns in IPA notation},
