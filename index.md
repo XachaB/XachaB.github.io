@@ -169,6 +169,6 @@ We infer the semi-lattice using Formal Concept Analysis (Wille 1984) and describ
 
 ## Tools
 
-* <img src="qumin.png" alt="Qumin" style="vertical-align:sub;" width="80px"> (*Qu*antitative *M*odelling of *In*flection) is a set of scripts written during my PhD to explore the structure of inflection class systems. [[doc]](http://drehu.linguist.univ-paris-diderot.fr/qumin/) [[code]](https://github.com/XachaB/Qumin)
+* <img src="qumin.png" alt="Qumin" style="vertical-align:sub;" width="80px"> (*Qu*antitative *M*odelling of *In*flection) is a set of scripts written during my PhD to explore the structure of inflection class systems. [[doc]](http://www.llf.cnrs.fr/partage/qumin/) [[code]](https://github.com/XachaB/Qumin)
 * [pdcldf](https://pypi.org/project/pdcldf/), a very thin wrapper on [pycldf](https://pypi.org/project/pycldf/) to write pandas DataFrames as [CLDF](https://cldf.clld.org/) datasets. It implements some boilerplate to automatically add components, tables and columns, and deduce as much metadata as possible from pandas DataFrames rather than specify every column.
 * [IPA Keyboard](https://github.com/XachaB/IPAKeyboard) is a keyboard layout for Onboard Keyboard, allowing for easily typing International Phonetic Alphabet symbols in utf-8 on linux.
