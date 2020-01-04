@@ -10,6 +10,11 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
 ## Publications
 
 <ul class="publications">
+  <li>**Sacha Beniamine**, Martin Maiden, and Erich Round. “Opening the Romance Verbal Inflection Dataset 2.0: A CLDF lexicon”. Submitted to LREC 2020 <a href="/papers/BeniamineMaidenRound-LREC2020.pdf.pdf">[preprint pdf]</a>
+    <blockquote>
+        We introduce the Romance Verbal Inflection Dataset 2.0, a multilingual lexicon of Romance inflection covering 73 varieties. The lexicon provide verbal paradigm forms in broad IPA phonemic notation. Both lexemes and paradigm cells are organized to reflect cognacy. Such multi-lingual inflected lexicons annotated for two dimensions of cognacy are necessary to study the evolution of inflectional paradigms, and test linguist hypothesis systematically. However, these resources seldom exist, and when they do, they are not usually encoded in computationally usable ways. The Oxford Online Database of Romance Verb Morphology provides this kind of information, however, it is not maintained anymore and only available as a web service without interfaces for machine-readability. We collect its data and clean and correct it for consistency using both heuristics and expert annotator judgements. Most resources used to study language evolution computationally rely strictly on multilingual contemporary information, and lack information about prior stages of the languages. To provide such information, we augmented the database  with Latin paradigms from the LatInFlexi lexicon. Finally, to make it widely avalable, the resource is released under a GPLv3 license in CLDF format.
+    </blockquote>
+    </li>
     <li>Beniamine, Sacha. (in press) <b>“One lexeme, many classes: inflection class systems as lattices”</b> , In: <i>One-to-Many Relations in Morphology, Syntax and Semantics</i> , Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
