@@ -10,17 +10,45 @@ I see computational tools as an opportunity to systematize linguistic analyses, 
 ## Publications
 
 <ul class="publications">
-  <li>Sacha Beniamine, Martin Maiden, and Erich Round. <b>“Opening the Romance Verbal Inflection Dataset 2.0: A CLDF lexicon”</b>. Accepted at LREC 2020 <a href="/papers/BeniamineMaidenRound-LREC2020.pdf">[preprint pdf]</a>
+  <li>Sacha Beniamine, Martin Maiden, and Erich Round. <b>“Opening the Romance Verbal Inflection Dataset 2.0: A CLDF lexicon”</b>. In Proceedings of The 12th Language Resources and Evaluation Conference, 3020–3028. Marseille, France: European Language Resources Association. <a href="/papers/BeniamineMaidenRound-LREC2020.pdf">[pdf]</a><details markdown = "0">
+        <summary markdown="0">[bib]</summary>
+        <pre>@InProceedings{BeniamineMaidenRound2020,
+  author    = {Beniamine, Sacha  and  Maiden, Martin  and  Round, Erich},
+  title     = {Opening the Romance Verbal Inflection Dataset 2.0: A CLDF lexicon},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {3027--3035},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.370}
+}
+</pre>
+    </details>
     <blockquote>
         We introduce the Romance Verbal Inflection Dataset 2.0, a multilingual lexicon of Romance inflection covering 73 varieties. The lexicon provide verbal paradigm forms in broad IPA phonemic notation. Both lexemes and paradigm cells are organized to reflect cognacy. Such multi-lingual inflected lexicons annotated for two dimensions of cognacy are necessary to study the evolution of inflectional paradigms, and test linguist hypothesis systematically. However, these resources seldom exist, and when they do, they are not usually encoded in computationally usable ways. The Oxford Online Database of Romance Verb Morphology provides this kind of information, however, it is not maintained anymore and only available as a web service without interfaces for machine-readability. We collect its data and clean and correct it for consistency using both heuristics and expert annotator judgements. Most resources used to study language evolution computationally rely strictly on multilingual contemporary information, and lack information about prior stages of the languages. To provide such information, we augmented the database  with Latin paradigms from the LatInFlexi lexicon. Finally, to make it widely avalable, the resource is released under a GPLv3 license in CLDF format.
     </blockquote>
     </li>
-    <li>Erich R. Round, Jayden L. Macklin-Cordes, T. Mark Ellison, and Sacha Beniamine (2020). <b>“Automated parsing of interlinear glossed text from page images of grammatical descriptions”</b>. Accepted at LREC 2020
+    <li>Round, Erich, Mark Ellison, Jayden Macklin-Cordes, and Sacha Beniamine. 2020.  <b>“Automated parsing of interlinear glossed text from page images of grammatical descriptions”</b>. In Proceedings of The 12th Language Resources and Evaluation Conference, 2871–2876. Marseille, France: European Language Resources Association. <a href="http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.351.pdf">[pdf]</a><details markdown = "0">
+        <summary markdown="0">[bib]</summary>
+        <pre>@InProceedings{RoundEtAl2020,
+  author    = {Round, Erich  and  Ellison, Mark  and  Macklin-Cordes, Jayden  and  Beniamine, Sacha},
+  title     = {Automated Parsing of Interlinear Glossed Text from Page Images of Grammatical Descriptions},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {2878--2883},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.351}
+}
+</pre>
+    </details>
     <blockquote>
         Linguists seek insight from all human languages, however accessing information from most of the full store of extant global linguistic descriptions is not easy. One of the most common kinds of information that linguists have documented is vernacular sentences, as recorded in descriptive grammars. Typically these sentences are formatted as interlinear glossed text (IGT). Most descriptive grammars, however, exist only as hardcopy or scanned pdf documents. Consequently, parsing IGTs in scanned grammars is a priority, in order to significantly increase the volume of documented linguistic information that is readily accessible. Here we demonstrate fundamental viability for a technology that can assist in making a large number of linguistic data sources machine readable: the automated identification and parsing of interlinear glossed text from scanned page images. For example, we attain high median precision and recall (>0.95) in the identification of examples sentences in IGT format. Our results will be of interest to those who are keen to see more of the existing documentation of human language, especially for less-resourced and endangered languages, become more readily accessible.
     </blockquote>
     </li>
-    <li>Beniamine, Sacha. (in press) <b>“One lexeme, many classes: inflection class systems as lattices”</b> , In: <i>One-to-Many Relations in Morphology, Syntax and Semantics</i> , Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a>
+    <li>Beniamine, Sacha. (in press) <b>“One lexeme, many classes: inflection class systems as lattices”</b> , In: <i>One-to-Many Relations in Morphology, Syntax and Semantics</i> , Ed. by Berthold Crysmann and Manfred Sailer. Berlin: Language Science Press. <a href="/papers/Beniamine2019.pdf">[preprint pdf]</a><a href="https://langsci-press.org/catalog/book/262">[official page]</a>
     <details markdown = "0">
         <summary markdown="0">[bib]</summary>
         <pre>@InBook{Beniamine2019,
@@ -179,6 +207,6 @@ We infer the semi-lattice using Formal Concept Analysis (Wille 1984) and describ
 
 ## Tools
 
-* <img src="qumin.png" alt="Qumín" style="vertical-align:sub;" width="80px"> (*Qu*antitative *M*odelling of *In*flection) is a set of scripts written during my PhD to explore the structure of inflection class systems. [[doc]](http://www.llf.cnrs.fr/partage/qumin/) [[code]](https://github.com/XachaB/Qumin)
+* <img src="qumin.png" alt="Qumín" style="vertical-align:sub;" width="80px"> (*Qu*antitative *M*odelling of *In*flection) is a set of scripts written during my PhD to explore the structure of inflection class systems. [[doc] **(moved to readthedocs)**](https://qumin.readthedocs.io/) [[code]](https://github.com/XachaB/Qumin)
 * [pdcldf](https://pypi.org/project/pdcldf/), a very thin wrapper on [pycldf](https://pypi.org/project/pycldf/) to write pandas DataFrames as [CLDF](https://cldf.clld.org/) datasets. It implements some boilerplate to automatically add components, tables and columns, and deduce as much metadata as possible from pandas DataFrames rather than specify every column.
 * [IPA Keyboard](https://github.com/XachaB/IPAKeyboard) is a keyboard layout for Onboard Keyboard, allowing for easily typing International Phonetic Alphabet symbols in utf-8 on linux.
